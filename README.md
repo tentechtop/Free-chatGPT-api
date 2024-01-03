@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://com-img-space.oss-cn-shenzhen.aliyuncs.com/svg/favicon.ico" alt="icon" width="50px"/>
-<h1 align="center">Free-GPT-API-</h1>
+<h1 align="center">Free-GPT-API 曲率API</h1>
 
 支持 **GPT-4** / GPT-3.5-Turbo / GPT-3.5-Turbo-16K / embeddings / DALL·E / whisper / text-davinci / speech / Translation
 
